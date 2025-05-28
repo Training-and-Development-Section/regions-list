@@ -1,32 +1,75 @@
-{
-  "id": ,
-  "regionName": 
-},
-{
-  "id": 1,
-  "regionName": "North America"
-},
-{
-  "id": 2,
-  "regionName": "South America"
-},
-{
-  "id": 3,
-  "regionName": "Europe"
-},
-{
-  "id": 4,
-  "regionName": "Africa"
-},
-{
-  "id": 5,
-  "regionName": "Asia"
-},
-{
-  "id": 6,
-  "regionName": "Australia"
-},
-{
-  "id": 7,
-  "regionName": "Antarctica"
-}
+[
+  {
+    "id": 0,
+    "regionName": "NCR"
+  },
+  {
+    "id": 1,
+    "regionName": "Region I"
+  },
+  {
+    "id": 2,
+    "regionName": "Region II"
+  },
+  {
+    "id": 3,
+    "regionName": "Region III"
+  },
+  {
+    "id": 4,
+    "regionName": "Region IV-A"
+  },
+  {
+    "id": 5,
+    "regionName": "MIMAROPA"
+  },
+  {
+    "id": 6,
+    "regionName": "Region V"
+  },
+  {
+    "id": 7,
+    "regionName": "Region VI"
+  },
+  {
+    "id": 8,
+    "regionName": "Region VII"
+  },
+  {
+    "id": 9,
+    "regionName": "Region VIII"
+  },
+  {
+    "id": 10,
+    "regionName": "Region IX"
+  },
+  {
+    "id": 11,
+    "regionName": "Region X"
+  },
+  {
+    "id": 12,
+    "regionName": "Region XI"
+  },
+  {
+    "id": 13,
+    "regionName": "Region XII"
+  },
+  {
+    "id": 14,
+    "regionName": "CARAGA"
+  },
+  {
+    "id": 15,
+    "regionName": "ARMM"
+  },
+  {
+    "id": 16,
+    "regionName": "BARMM"
+  },
+  {
+    "id": 17,
+    "regionName": "CAR"
+  }
+]
+
