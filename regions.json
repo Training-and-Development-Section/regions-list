@@ -1,4 +1,32 @@
 {
   "id": ,
   "regionName": 
+},
+{
+  "id": 1,
+  "regionName": "North America"
+},
+{
+  "id": 2,
+  "regionName": "South America"
+},
+{
+  "id": 3,
+  "regionName": "Europe"
+},
+{
+  "id": 4,
+  "regionName": "Africa"
+},
+{
+  "id": 5,
+  "regionName": "Asia"
+},
+{
+  "id": 6,
+  "regionName": "Australia"
+},
+{
+  "id": 7,
+  "regionName": "Antarctica"
 }
