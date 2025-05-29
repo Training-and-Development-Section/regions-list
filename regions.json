@@ -6,67 +6,83 @@
   },
   {
     "id": 2,
-    "regionName": "Region II"
+    "regionName": "Region II",
+    "value": "REGION II"
   },
   {
     "id": 3,
-    "regionName": "Region III"
+    "regionName": "Region III",
+    "value": "REGION III"
   },
   {
     "id": 4,
-    "regionName": "Region IV-A"
+    "regionName": "Region IV-A",
+    "value": "REGION IV-A"
   },
   {
     "id": 5,
-    "regionName": "MIMAROPA"
+    "regionName": "MIMAROPA",
+    "value": "MIMAROPA"
   },
   {
     "id": 6,
-    "regionName": "Region V"
+    "regionName": "Region V",
+    "value": "REGION V"
   },
   {
     "id": 7,
-    "regionName": "Region VI"
+    "regionName": "Region VI",
+    "value": "REGION VI"
   },
   {
     "id": 8,
-    "regionName": "Region VII"    
+    "regionName": "Region VII",
+    "value": "REGION VII"    
   },
   {
     "id": 9,  
-    "regionName": "Region VIII"
+    "regionName": "Region VIII",
+    "value": "REGION VIII"
   },
   {
     "id": 10,
-    "regionName": "Region IX"
+    "regionName": "Region IX",
+    "value": "REGION IX"
   },
   {
     "id": 11,
-    "regionName": "Region X"
+    "regionName": "Region X",
+    "value": "REGION X"
   },
   {
     "id": 12,
-    "regionName": "Region XI"
+    "regionName": "Region XI",
+    "value": "REGION XI"
   },
   {
     "id": 13,
-    "regionName": "Region XII"
+    "regionName": "Region XII",
+    "value": "REGION XII"
   },  
   {
     "id": 14,
-    "regionName": "Region XIII"
+    "regionName": "Region XIII",
+    "value": "REGION XIII"
   },
   {
     "id": 15,
-    "regionName": "NCR"
+    "regionName": "NCR",
+    "value": "NCR"
   },
   {
     "id": 16,
-    "regionName": "CAR"
+    "regionName": "CAR",
+    "value": "CAR"
   },
   {
     "id": 17,
-    "regionName": "BARMM"
+    "regionName": "BARMM",
+    "value": "BARMM"
   }
 ]
 
