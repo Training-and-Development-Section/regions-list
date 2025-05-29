@@ -82,7 +82,11 @@
   {
     "id": 17,
     "regionName": "BARMM",
-    "value": "BARMM"
+    "value": "BARMM"S
+  },
+  {
+    "id": 18,
+    "regionName": "NIR",
+    "value": "NIR"
   }
 ]
-
