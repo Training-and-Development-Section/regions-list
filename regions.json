@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "regionName": "Region I",
-    "value": "REGION I"
-  },
-  {
-    "id": 2,
-    "regionName": "Region II",
-    "value": "REGION II"
-  },
-  {
-    "id": 3,
-    "regionName": "Region III",
-    "value": "REGION III"
-  },
-  {
-    "id": 4,
-    "regionName": "Region IV-A",
-    "value": "REGION IV-A"
-  },
-  {
-    "id": 5,
-    "regionName": "MIMAROPA",
-    "value": "MIMAROPA"
-  },
-  {
-    "id": 6,
-    "regionName": "Region V",
-    "value": "REGION V"
-  },
-  {
-    "id": 7,
-    "regionName": "Region VI",
-    "value": "REGION VI"
-  },
-  {
-    "id": 8,
-    "regionName": "Region VII",
-    "value": "REGION VII"    
-  },
-  {
-    "id": 9,  
-    "regionName": "Region VIII",
-    "value": "REGION VIII"
-  },
-  {
-    "id": 10,
-    "regionName": "Region IX",
-    "value": "REGION IX"
-  },
-  {
-    "id": 11,
-    "regionName": "Region X",
-    "value": "REGION X"
-  },
-  {
-    "id": 12,
-    "regionName": "Region XI",
-    "value": "REGION XI"
-  },
-  {
-    "id": 13,
-    "regionName": "Region XII",
-    "value": "REGION XII"
-  },  
-  {
-    "id": 14,
-    "regionName": "Region XIII",
-    "value": "REGION XIII"
-  },
-  {
-    "id": 15,
     "regionName": "NCR",
     "value": "NCR"
   },
   {
-    "id": 16,
+    "id": 2,
     "regionName": "CAR",
     "value": "CAR"
   },
   {
+    "id": 3,
+    "regionName": "Region I",
+    "value": "REGION I"
+  },
+  {
+    "id": 4,
+    "regionName": "Region II",
+    "value": "REGION II"
+  },
+  {
+    "id": 5,
+    "regionName": "Region III",
+    "value": "REGION III"
+  },
+  {
+    "id": 6,
+    "regionName": "Region IV-A",
+    "value": "REGION IV-A"
+  },
+  {
+    "id": 7,
+    "regionName": "MIMAROPA",
+    "value": "MIMAROPA"
+  },
+  {
+    "id": 8,
+    "regionName": "Region V",
+    "value": "REGION V"
+  },
+  {
+    "id": 9,
+    "regionName": "Region VI",
+    "value": "REGION VI"
+  },
+  {
+    "id": 10,
+    "regionName": "NIR",
+    "value": "NIR"
+  }
+  {
+    "id": 11,
+    "regionName": "Region VII",
+    "value": "REGION VII"    
+  },
+  {
+    "id": 12,  
+    "regionName": "Region VIII",
+    "value": "REGION VIII"
+  },
+  {
+    "id": 13,
+    "regionName": "Region IX",
+    "value": "REGION IX"
+  },
+  {
+    "id": 14,
+    "regionName": "Region X",
+    "value": "REGION X"
+  },
+  {
+    "id": 15,
+    "regionName": "Region XI",
+    "value": "REGION XI"
+  },
+  {
+    "id": 16,
+    "regionName": "Region XII",
+    "value": "REGION XII"
+  },  
+  {
     "id": 17,
-    "regionName": "BARMM",
-    "value": "BARMM"
+    "regionName": "Region XIII",
+    "value": "REGION XIII"
   },
   {
     "id": 18,
-    "regionName": "NIR",
-    "value": "NIR"
+    "regionName": "BARMM",
+    "value": "BARMM"
   }
 ]
